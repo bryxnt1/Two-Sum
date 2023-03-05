@@ -13,3 +13,4 @@ function twoSum(nums, target) {
   
   return [];
 }
+//using hastable
